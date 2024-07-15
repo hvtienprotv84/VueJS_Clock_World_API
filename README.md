@@ -1,5 +1,6 @@
 # VueJS - Clock API
 - Vue3
+- TypeScript
 - Axios
 - Tailwind CSS
 - Vite.js
